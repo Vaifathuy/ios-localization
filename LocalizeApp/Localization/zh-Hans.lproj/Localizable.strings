@@ -1,0 +1,10 @@
+/* 
+  Localization.strings
+  LocalizeApp
+
+  Created by Vaifat on 12/19/19.
+  Copyright © 2019 Vaifat. All rights reserved.
+*/
+
+"title_label" = "欢迎到Localization讲解";
+"language_button" = "语言";
